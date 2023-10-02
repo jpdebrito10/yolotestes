@@ -4,5 +4,6 @@ here, i'll teach you how can you use yolo on your python code by a easy way! / A
 
 1. you need get the openCV/ Precisa ter o Opencv: 
 
-    (On linux ubuntu)
-        sudo pip install opencv-python
+    >(On linux ubuntu)
+
+            sudo pip install opencv-python
